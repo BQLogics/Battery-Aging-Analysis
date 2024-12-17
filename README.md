@@ -33,5 +33,10 @@ pip install pandas plotly matplotlib numpy
 Battery Impedance Plot: Shows how the impedance changes over time as the battery ages.
 Electrolyte Resistance (Re) and Charge Transfer Resistance (Rct): Visualizations of how these internal resistances evolve during the battery's lifecycle.
 
+## Challenges Faced:
+- Ensuring that the data was cleaned and filtered appropriately to focus only on impedance measurements.
+- Effectively visualizing the data in a meaningful way to highlight the aging process and internal resistance changes.
+- Identifying the correct methods to extract and plot the peaks for a better understanding of significant events in the battery's aging process.
+
 ## Conclusion
 This analysis provides insights into battery aging, focusing on changes in internal resistance as the battery progresses through its charge/discharge cycles. By monitoring Battery Impedance, Re, and Rct, we can track the aging process and predict the battery's end-of-life (EOL). This information is crucial for evaluating battery health and optimizing battery management systems.
