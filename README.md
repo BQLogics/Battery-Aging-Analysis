@@ -14,7 +14,7 @@ The project consists of the following components:
 
 ## Files in the Repository
 
-- **`battery_analysis.py`**: Main Python script for data loading, cleaning, processing, and generating visualizations.
+- **`Batter_impedence.ipynb`**: Main Python script for data loading, cleaning, processing, and generating visualizations.
 - **`metadata.csv`**: Dataset containing battery test data.
 - **`README.md`**: This file that provides an overview of the project.
 
