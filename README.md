@@ -11,7 +11,6 @@ This project analyzes the **NASA Battery Dataset** to track the internal resista
 The project consists of the following components:
 - **Data Processing**: The dataset is filtered to focus on impedance measurements.
 - **Visualization**: Several plots are created to track how **Battery Impedance**, **Re**, and **Rct** change over time, visualizing battery aging trends.
-- **Peak Analysis**: Identifying key trends and peak points in the battery's impedance during the aging process.
 
 ## Files in the Repository
 
