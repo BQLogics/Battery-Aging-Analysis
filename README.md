@@ -28,3 +28,10 @@ To run this project, make sure you have the following Python libraries installed
 You can install these dependencies using pip:
 ```bash
 pip install pandas plotly matplotlib numpy
+```
+## Output
+Battery Impedance Plot: Shows how the impedance changes over time as the battery ages.
+Electrolyte Resistance (Re) and Charge Transfer Resistance (Rct): Visualizations of how these internal resistances evolve during the battery's lifecycle.
+
+## Conclusion
+This analysis provides insights into battery aging, focusing on changes in internal resistance as the battery progresses through its charge/discharge cycles. By monitoring Battery Impedance, Re, and Rct, we can track the aging process and predict the battery's end-of-life (EOL). This information is crucial for evaluating battery health and optimizing battery management systems.
